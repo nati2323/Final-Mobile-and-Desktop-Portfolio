@@ -9,7 +9,6 @@
 
 - HTML
 - CSS
-- JS
 
 ## Getting Started
 
