@@ -96,6 +96,11 @@ body {
 .head__title {
   color: #172b4d;
   width: 10ch;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
 }
 
 .head__title span {
