@@ -94,8 +94,6 @@ body {
 .head__title {
   color: #172b4d;
   width: 10ch;
-  font-family: 'Poppins';
-  font-style: normal;
   font-weight: 700;
   font-size: 48px;
   line-height: 60px;
@@ -113,7 +111,7 @@ body {
 
 .head__link {
   text-transform: uppercase;
-  color:#7f8cff;
+  color: #7f8cff;
 }
 
 .head__icons {
