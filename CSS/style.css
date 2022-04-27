@@ -14,6 +14,7 @@ h3,
 p {
   margin: 0;
   padding: 0;
+  color:#172b4d;
 }
 
 body {
@@ -51,10 +52,15 @@ body {
 }
 
 .navbar__link {
-  color: #772488;
+  color: #2230d2;
   animation-name: rotate-logo;
   animation-duration: 1.5s;
   animation-iteration-count: 1;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
 }
 
 .navbar__list {
@@ -94,7 +100,7 @@ body {
 
 .head__title span {
   display: block;
-  width: 10ch;
+  width: 15ch;
 }
 
 .head__con {
@@ -104,6 +110,7 @@ body {
 
 .head__link {
   text-transform: uppercase;
+  color:#7F8CFF;
 }
 
 .head__icons {
