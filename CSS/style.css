@@ -14,7 +14,7 @@ h3,
 p {
   margin: 0;
   padding: 0;
-  color:#172b4d;
+  color: #172b4d;
 }
 
 body {
@@ -56,8 +56,6 @@ body {
   animation-name: rotate-logo;
   animation-duration: 1.5s;
   animation-iteration-count: 1;
-  font-family: 'Poppins';
-  font-style: normal;
   font-weight: 700;
   font-size: 18px;
   line-height: 20px;
@@ -115,7 +113,7 @@ body {
 
 .head__link {
   text-transform: uppercase;
-  color:#7F8CFF;
+  color:#7f8cff;
 }
 
 .head__icons {
