@@ -394,6 +394,7 @@ body {
   content: "";
   position: absolute;
   background-color: #6070ff;
+  background-image: url(..\images\figma-image\contact-form-shapes-mobile.Png);
   background-size: contain;
   background-position: right;
   background-origin: content-box;
