@@ -136,12 +136,16 @@ body {
 .lh-16 {
   line-height: 16px;
 }
+
 ::placeholder {
   color: #172B4D;
 }
-#message::placeholder{
-  color: #B3BAC5;
+
+#message::placeholder {
+  color: #b3bac5;
+  
 }
+
 .link {
   text-decoration: none;
 }
