@@ -20,7 +20,7 @@ body {
   overflow-x: hidden;
 }
 
-.first {
+.main {
   background: #f7f7f9;
   position: relative;
 }
@@ -205,6 +205,7 @@ body {
     content: "";
     position: absolute;
     background-color: #fff;
+    background-image: url(../images/shapes.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
