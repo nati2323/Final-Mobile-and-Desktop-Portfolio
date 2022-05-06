@@ -137,13 +137,14 @@ body {
   line-height: 16px;
 }
 
-#message::placeholder{
-  color: #b3bac5;;
+#message::placeholder {
+  color: #b3bac5;
 }
 
-::placeholder{
+::placeholder {
   color: #172b4d;
 }
+
 .link {
   text-decoration: none;
 }
@@ -295,7 +296,7 @@ body {
 }
 
 .works__card__topics {
- float: left;
+  float: left;
   gap: 8px;
   margin: 1rem 0 1.8rem;
 }
