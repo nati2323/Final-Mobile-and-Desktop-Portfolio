@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Hello Microverse!
+> Final-Mobile-Version
 
 
 ## Built With
@@ -10,13 +10,24 @@
 - HTML
 - CSS
 
+## Live Demo (if available)
+  N/A
+
 ## Getting Started
+ - To get up started use the following steps!
 
-**pull the project then run it with broweser**
+## Steps :
 
-### Setup
+- Clone repository in your local machine
+- git clone https://github.com/nati2323/Mobile-Portfolio-1.git
+- open index.html in your browser.
 
-### Install
+## Prerequisites
+
+- code editor
+- Internet connection
+- web browser
+- Github account
 
 ## Authors
 
