@@ -21,7 +21,7 @@ To get up started use the following steps!
 
 ## Steps :
  1) Clone repository in your local machine
- 2) git clone https://github.com/MicroverseNelson/MyPortfolio
+ 2) git clone https://github.com/nati2323/Mobile-Portfolio-1.git
  3) cd Portfolio
  4) open index.html in your browser.
  5) You can use live server as well.
