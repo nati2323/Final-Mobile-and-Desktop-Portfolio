@@ -402,7 +402,7 @@ body {
   content: "";
   position: absolute;
   background-color: #6070ff;
-  background-image: url(..\images\figma-image\contact-form-shapes-mobile.Png);
+  background-image: url(http://127.0.0.1:5500/images/contact-form-shapes-mobile.svg);
   background-size: contain;
   background-position: right;
   background-origin: content-box;
