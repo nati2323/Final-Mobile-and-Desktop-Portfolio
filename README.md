@@ -11,9 +11,8 @@
 - CSS
 
 ## Getting Started
- - To get up started use the following steps!
-
-## Steps :
+ 
+ ## Steps :
 
 - Clone repository in your local machine
 - git clone https://github.com/nati2323/Mobile-Portfolio-1/tree/portfolio-desktop-version
