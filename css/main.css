@@ -709,14 +709,14 @@ body {
   }
 
   .works__card__dsc {
-    font-style: normal; 
-    color: #344563; 
+    font-style: normal;
+    color: #344563;
   }
 
   .works__cards {
     padding: 5rem;
   }
- 
+
   .works__card {
     align-items: center;
     max-width: 1104px;
