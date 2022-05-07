@@ -287,7 +287,7 @@ body {
 }
 
 .works__card__topics {
- float: left;
+  float: left;
   gap: 8px;
   margin: 1rem 0 1.8rem;
 }
@@ -877,4 +877,11 @@ body {
     margin-inline: auto;
     width: 65%;
   }
+}
+
+navbar__link {
+  color: #2230d2;
+  animation-name: rotate-logo;
+  animation-duration: 1.5s;
+  animation-iteration-count: 1;
 }
