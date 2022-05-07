@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Animation For Portfolios
+> Desktop-Version-Portfolio
 
 
 ## Built With
