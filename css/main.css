@@ -709,11 +709,9 @@ body {
   }
 
   .works__card__dsc {
-    font-family: 'Poppins';
-    font-style: normal;
     color: #344563;
   }
-  
+
   .works__cards {
     padding: 5rem;
   }
