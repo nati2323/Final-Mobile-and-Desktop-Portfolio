@@ -25,9 +25,6 @@
 - GitHub: [@Natnael](https://github.com/nati2323)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/natnael-amare-b5844510a/)
 
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 ## 📝 License
 
