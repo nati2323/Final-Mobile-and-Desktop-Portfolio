@@ -2,36 +2,29 @@
 
 # Project Name
 
->  Portfolio-Desktop-Version!
+> Desktop-Version-Portfolio
 
 
 ## Built With
 
 - HTML
 - CSS
-- Github workflows
-
-## Live Demo (if available)
-
-  N/A
 
 ## Getting Started
-
-To get up started use the following steps!
+ - To get up started use the following steps!
 
 ## Steps :
- 1) Clone repository in your local machine
- 2) git clone https://github.com/nati2323/Mobile-Portfolio-1.git
- 3) cd Portfolio
- 4) open index.html in your browser.
- 5) You can use live server as well.
 
-### Prerequisites
- 
- - code editor
- - Internet connection
- - web browser
- - Github account
+- Clone repository in your local machine
+- git clone https://github.com/nati2323/Mobile-Portfolio-1/tree/portfolio-desktop-version
+- open index.html in your browser.
+
+## Prerequisites
+
+- code editor
+- Internet connection
+- web browser
+- Github account
 
 ## Authors
 
