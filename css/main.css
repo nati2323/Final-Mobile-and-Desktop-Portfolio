@@ -297,8 +297,8 @@ body {
 
 .works__card__topics {
   display: flex;
-  flex-wrap: wrap;
   gap: 8px;
+  gap: 9px;
   margin: 1rem 0 1.8rem;
 }
 
@@ -706,6 +706,11 @@ body {
 
   .head__link {
     margin: 0.7rem 0;
+  }
+
+  .works__card__dsc {
+    font-style: normal;
+    color: #344563;
   }
 
   .works__cards {
