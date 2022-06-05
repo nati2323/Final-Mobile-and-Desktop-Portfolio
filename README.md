@@ -17,11 +17,6 @@
 
 ## Steps :
 
-
-- Clone repository in your local machine
-- git clone https://github.com/nati2323/Mobile-Portfolio-1.git
-- open index.html in your browser.
-
 ## Prerequisites
 
 - code editor
